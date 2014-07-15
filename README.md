@@ -1,4 +1,8 @@
 bgwikigovedits
 ==============
 
-tweets about anonymous Wikipedia edits from particular IP address ranges used by Bulgarian Government
+Идеята е да се създаде tweet бот, който ще следи за анонимни промени на Wikipedia страници направени от IP адреси и мрежи използвани от българските държавни служби, агенции и министерства. Базирано е на вече съществуващите такива за US - congressedits и parliamentedits за UK.
+
+IP адресите са публично достъпни и списъкът е създаден с търсения в базата данни на европейският RIR (Regional Internet Registry) RIPE, както и в ip.ludost.net и bgp.he.net
+
+Данните са организирани в csv.

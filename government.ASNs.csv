@@ -1,0 +1,44 @@
+AS number,IP Address range,Government agency or state owned company,Additional Comments
+AS44586,83.228.89.0/24,MDAAR,Executive Agency "Electronic Communication Networks and Information Systems"
+AS44586,213.91.173.0/24,Ministry of State Administration,Executive Agency "Electronic Communication Networks and Information Systems"
+AS31369,193.25.162.0/23,National Social Security Institute
+AS61082,82.119.70.0/24,Ministerstvo na Truda i Socialnata Politika
+AS35503,89.252.196.0/24,Ministry of Education and Science,Ministry of Education Youth and Science
+AS35503,193.192.56.0/23,Ministry of Education Youth and Science,Ministry of Education Youth and Science
+AS50866,84.22.10.0/24,Ministry of Foreign Affairs
+AS49950,212.122.166.0/24,Ministry of Internal Affairs, Ministry of Interior of Republic of Bulgaria
+AS25554,212.122.164.0/24,Ministry of Finances,Ministry of Finance of Bulgarian Government
+AS25554,212.122.165.0/24,Ministry of Finances,Ministry of Finance of Bulgarian Government
+AS42191,195.110.24.0/23,State Fund Agriculture
+AS42191,195.110.24.0/24,State Fund Agriculture
+AS42191,195.110.25.0/24,State Fund Agriculture
+AS12564,46.10.214.0/24,Ministerial council BG Sofia,Bulgarian Government
+AS12564,46.10.215.0/24,Ministerial council BG Plovdiv,Bulgarian Government
+AS12564,212.122.160.0/24,Bulgarian Government Network,Bulgarian Government
+AS12564,212.122.161.0/24,Bulgarian Government Network,Bulgarian Government
+AS12564,212.122.162.0/24,Bulgarian Government Network,Bulgarian Government
+AS12564,212.122.163.0/24,Bulgarian Government Network,Bulgarian Government
+AS12564,212.122.168.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.169.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.170.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.171.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.172.0/24,Municipality network,Bulgarian Government
+AS12564,212.122.173.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.175.0/24,Internet access for small customers,Bulgarian Government
+AS12564,212.122.176.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.177.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.178.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.179.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.180.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.181.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.182.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.183.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.184.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.185.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.186.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.187.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.188.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.189.0/24,Council of Ministers,Bulgarian Government
+AS12564,212.122.190.0/24,Council of Ministers,Bulgarian Government
+// IPs of Bulgarian ISPs used by government agencies
+AS13124,213.240.249.176/28,Registry Agency,AS13124 is part of Blizoo 213.240.224.0/19 network
